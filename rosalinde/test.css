@@ -1,0 +1,17 @@
+p {
+	color: blue;
+	font-size: 20pt;
+}
+
+.red{
+	color: #FF8080;
+	background-color: rgb(20, 20, 80);
+}
+
+p.red{
+	font-weight: 800;
+}
+
+h1{
+	font-size: 100px;
+}
